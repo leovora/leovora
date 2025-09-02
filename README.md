@@ -1,7 +1,6 @@
 ## About me
 
 👨‍💻 MSc Computer Science student @ UniBo  
-📊 Data Science & Artificial Intelligence enthusiast  
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" /></td>
